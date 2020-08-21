@@ -3,12 +3,14 @@
   text-align: center;
 }
 
+
 .search-box {
 width: 300px;
 margin-top: 100px;
 height: 25px;
 border-radius: '5px'
 }
+
 
 .search-button {
   background-color: #3498DB;
